@@ -1,0 +1,18 @@
+.stack {
+    display: flex;
+    justify-content: end;
+    height: 300px;
+}
+
+.paginationControl {
+    min-width: 30px;
+    max-height: 50px;
+    max-width: 35px;
+    border-radius: 50%;
+}
+
+.paginationDots {
+    min-width: 25px;
+    height: 25px;
+    border-radius: 50%;
+}

@@ -1,0 +1,3 @@
+// Потом добавлю .env файл, сейчас впадлу разбираться
+export const token =
+  "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI1NTVmNDJhODU3OWQ3NzAwMDQwOWE0MzljY2Y0ZjU1YiIsInN1YiI6IjY0ZjIyYTI5OTdhNGU2MDBlMWEzODg5OSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.xEkUiku5WkmLTj335LCmIJif0v0HMM-BnP7sm9xLSQQ";
